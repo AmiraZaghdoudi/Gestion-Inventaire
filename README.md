@@ -15,7 +15,8 @@ to delay the release of Laravel v9. The PHP 8 requirement is because Laravel 9 i
 
 1. You are invited to create your account via the authentication interface to be able to connect to the project
 
-![image](https://user-images.githubusercontent.com/113338515/189610145-9a92761b-29e9-49bd-8131-67d9a8186399.png)
+![image](https://user-images.githubusercontent.com/113338515/189612280-a4a049f4-f1d9-464a-9530-7b60b4da6996.png)
+
 
 2. Create at least two new centers to be able to exchange products
 
